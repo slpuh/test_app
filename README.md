@@ -27,9 +27,8 @@
 Фронтенд — фреймверки и технологии на ваш выбор. SPA фронтенд будет большим плюсом(Angular, react, vue js ect).
 
 
-<p align="center">    
-    <h3 align="center">Yii 2 Basic Project Template</h3>
-    <br>
+<p>    
+<h3>Yii 2 Basic Project</h3>
 </p>
 
 DIRECTORY STRUCTURE
@@ -53,6 +52,7 @@ INSTALLATION
 ### Install
 
 git clone https://github.com/slpuh/test_app.git
+
 composer install
 
 
