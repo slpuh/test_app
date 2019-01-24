@@ -51,12 +51,10 @@ INSTALLATION
 
 ### Install
 
+```
 git clone https://github.com/slpuh/test_app.git
-
 composer install
-
-
-
+```
 CONFIGURATION
 -------------
 
